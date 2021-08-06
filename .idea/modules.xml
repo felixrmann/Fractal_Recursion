@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fractal Recursion.iml" filepath="$PROJECT_DIR$/Fractal Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KochCurve/KochCurve.iml" filepath="$PROJECT_DIR$/KochCurve/KochCurve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursive Factorial/Recursive Factorial.iml" filepath="$PROJECT_DIR$/Recursive Factorial/Recursive Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveCircles/RecursiveCircles.iml" filepath="$PROJECT_DIR$/RecursiveCircles/RecursiveCircles.iml" />
+    </modules>
+  </component>
+</project>
